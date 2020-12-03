@@ -1,0 +1,39 @@
+comCodes://todo: finish this
+
+* - requires string arg (instead of int arg)
+** - reuires 2 string args (use playerCode instead)
+a - armor
+A - actions
+c - character
+e - equiptment
+h - health
+i - initiative
+m - mana
+p - prompt
+
+
+a:
+
+
+
+
+A:
+
+
+c:
+ca  - add charecter
+cn  - set name			*
+cnn - set nickname		*
+
+e:
+esd - show equiptment dialogue
+es  - show equiptment
+ea  - add equiptment
+		eaa - armor (not a command, just progression)
+			eaas - sheild	*
+		eaw - weapon (not a command, just progression)
+			eawa - axe	*
+			eawc - club	**note, may remove these astersks wait*			
+
+p:
+pc - prompt choice	**
