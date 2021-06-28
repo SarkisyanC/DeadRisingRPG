@@ -1,0 +1,2 @@
+command
+eaas,p,Wooden Sheild,//adds sheild to player's gear

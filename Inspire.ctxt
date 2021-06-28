@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Inspire
+comment0.text=\r\n\ A\ SmallSpell\ that\ gives\ allies\ an\ extra\ 6\ points\ \r\n\ to\ add\ to\ any\ modifier\ or\ roll\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/7/20\ \ 11\:40\r\n
+comment1.params=
+comment1.target=int\ getDamage()
+comment2.params=target
+comment2.target=void\ cast(Charecter)
+numComments=3

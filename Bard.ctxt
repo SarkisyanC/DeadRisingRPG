@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Bard
+comment0.text=\r\n\ Holds\ features\ for\ any\ Bard\ type\ ComplexCharecter\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/7/20\ \ 9\:30\r\n
+comment1.params=inConMod\ inArmorBase\ inInitiativeBase\ inActionsBase\ inManaBase
+comment1.target=Bard(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ updateLevel()
+numComments=3

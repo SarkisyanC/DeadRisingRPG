@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SimpleEntity
+comment0.text=\r\n\ Stores\ template\ for\ Entitys\ without\ too\ many\ details\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/6/20\ \ 11\:00\r\n
+comment1.params=inLabel\ inInitiativeBase\ inActionsBase\ inChalengeLevel
+comment1.target=SimpleEntity(java.lang.String,\ int,\ int,\ int)
+comment2.params=inLabel\ inHealthBase\ inArmorBase\ inInitiativeBase\ inActionsBase\ inChalengeLevel
+comment2.target=SimpleEntity(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Used\ for\ internal\ testing\ only\ --\ returns\ all\ aspects\ of\ the\ charecter\r\n
+numComments=4

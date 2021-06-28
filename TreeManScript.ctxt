@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TreeManScript
+comment1.params=
+comment1.target=TreeManScript()
+comment2.params=
+comment2.target=java.lang.String\ getScriptCode()
+comment3.params=
+comment3.target=java.lang.String\ getPlayerCode()
+comment4.params=scriptCode
+comment4.target=int\ getNumFiles(java.lang.String)
+comment5.params=newCode
+comment5.target=void\ updateScriptCode(java.lang.String)
+numComments=6

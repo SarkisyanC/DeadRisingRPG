@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Shield
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shield\ here.\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 6/7/20\ \ 16\:00\r\n
+comment1.params=inLabel
+comment1.target=Shield(java.lang.String)
+comment2.params=inLabel\ amount
+comment2.target=Shield(java.lang.String,\ int)
+numComments=3

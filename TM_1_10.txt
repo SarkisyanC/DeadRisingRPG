@@ -1,0 +1,2 @@
+command
+pc,Ready your sheild,Hold your axe with both hands, Ask "who's there"

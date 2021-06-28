@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Boar
+comment0.text=\r\n\ A\ low-level\ foe\ for\ Player\ to\ face\r\n\ rural\ environments\ only\r\n\ \r\n\ Has\:\ \r\n\ \ level\ 1\ chalenge\ rating\r\n\ \ xp\ reward\ 10\r\n\ \ health\ 10\r\n\ \ armor\ 11\r\n\ \ 0\ base\ initiative\r\n\ \ 1\ action\ per\ turn\r\n\ \ \r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/7/20\ \ 12\:00\r\n
+comment1.params=
+comment1.target=Boar()
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Attack
+comment0.text=\r\n\ Abstract\ class\ Attack\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 6/7/20\ 15\:45\r\n
+comment1.params=inLabel\ inDamage\ inType
+comment1.target=Attack(java.lang.String,\ int,\ java.lang.String)
+comment2.params=inLabel\ inDamage\ inType\ saveType\ DC
+comment2.target=Attack(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int)
+numComments=3

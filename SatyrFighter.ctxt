@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SatyrFighter
+comment0.text=\r\n\ holds\ details\ of\ a\ detailed\ Satyr\ \r\n\ that\ fits\ the\ Fighter\ type\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/8/20\ \ 13\:30\r\n
+comment1.params=inName
+comment1.target=SatyrFighter(java.lang.String)
+comment2.params=
+comment2.target=void\ updateLevel()
+numComments=3
