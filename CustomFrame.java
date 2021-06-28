@@ -21,11 +21,15 @@ public class CustomFrame extends JFrame
         this.setVisible(true);   
         
         //create swing component
-        JButton button = new JButton("click me");
-        JTextArea textArea = new JTextArea();
+        JButton b1 = new JButton("next");
+        JButton b2 = new JButton("see inventory");
+        JButton b3 = new JButton("see charecter details");
+        //JTextArea textArea = new JTextArea();
         //add the components to the content pane
         Container c = getContentPane();
-        c.add(textArea, BorderLayout.CENTER);
-        c.add(button, BorderLayout.SOUTH);
+        //c.add(textArea, BorderLayout.CENTER);
+        c.add(b1, BorderLayout.SOUTH);
+        c.add(b2, BorderLayout.EAST);
+        c.add(b3, BorderLayout.WEST);
     }
 }
