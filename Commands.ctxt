@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Commands
+comment1.params=comCode\ charCode\ amount
+comment1.target=void\ executeHealthCom(java.lang.String,\ java.lang.String,\ int)
+comment2.params=comCode\ amount
+comment2.target=void\ executeArmorCom(java.lang.String,\ int)
+comment3.params=comCode\ choice1\ choice2
+comment3.target=void\ executePromptCom(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Holds\ information\ on\ the\ player's\ charecter\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/6/20\ \ 12\:00\r\n
+comment1.params=inName
+comment1.target=void\ setName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ showStatus()
+comment4.params=
+comment4.target=void\ showAbilities()
+comment5.params=
+comment5.target=void\ showBelongings()
+comment6.params=newGear
+comment6.target=void\ addEquiptment(Equiptment)
+numComments=7

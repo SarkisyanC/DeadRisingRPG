@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LeveledSpell
+comment0.text=\r\n\ Abstract\ class\ LeveledSpell\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 6/7/20\ \ 17\:00\r\n
+comment1.params=level
+comment1.target=boolean\ canCast(int)
+comment2.params=level
+comment2.target=void\ cast(int)
+numComments=3

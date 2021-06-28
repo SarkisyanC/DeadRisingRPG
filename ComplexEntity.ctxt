@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ComplexEntity
+comment0.text=\r\n\ stores\ template\ for\ creating\ a\ more\ detailed\ Entity\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/6/20\ \ 11\:00\r\n
+comment1.params=inHealthBase\ inArmorBase\ inInitiativeBase\ inActionsBase
+comment1.target=ComplexEntity(int,\ int,\ int,\ int)
+comment2.params=inHealthBase\ inArmorBase\ inInitiativeBase\ inActionsBase\ inName
+comment2.target=ComplexEntity(int,\ int,\ int,\ int,\ java.lang.String)
+comment3.params=inHealthBase\ inArmorBase\ inInitiativeBase\ inActionsBase\ inName\ inNickname
+comment3.target=ComplexEntity(int,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment4.params=amount
+comment4.target=void\ addXp(int)
+comment5.params=
+comment5.target=void\ updateLevel()
+comment6.params=
+comment6.target=int\ getLevel()
+comment7.params=
+comment7.target=void\ longRest()
+comment7.text=\r\n\ refills\ all\ current\ stats\ to\ base\ value\ (without\ modifiers)\r\n
+comment8.params=newGear
+comment8.target=void\ addEquiptment(Equiptment)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\r\n\ Used\ for\ internal\ testing\ only\ --\ returns\ all\ aspects\ of\ the\ charecter\r\n
+numComments=10

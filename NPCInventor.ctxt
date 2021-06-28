@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NPCInventor
+comment0.text=\r\n\ holds\ details\ of\ a\ detailed\ NPC\ \r\n\ that\ fits\ the\ Inventor\ type\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/8/20\ \ 13\:30\r\n
+comment1.params=inName
+comment1.target=NPCInventor(java.lang.String)
+numComments=2

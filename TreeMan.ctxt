@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=TreeMan
+comment0.text=\r\n\ holds\ information\ on\ the\ playable\ charecter\ TreeMan\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 6/7/20\ \ 13\:30\r\n
+comment1.params=
+comment1.target=TreeMan()
+comment2.params=inName
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ sets\ the\ Player's\ name\ to\ what\ the\ user\ inputs\r\n\ @param\ String\ inName\ --\ The\ name\ the\ user\ wants\ to\ change\ name\ to\r\n
+comment3.params=inNickname
+comment3.target=void\ setNickname(java.lang.String)
+comment3.text=\r\n\ sets\ the\ Player's\ name\ to\ what\ the\ user\ inputs\r\n\ @param\ String\ inName\ --\ The\ name\ the\ user\ wants\ to\ change\ name\ to\r\n
+comment4.params=
+comment4.target=void\ showStatus()
+comment5.params=
+comment5.target=void\ showAbilities()
+comment6.params=
+comment6.target=void\ showBelongings()
+comment7.params=
+comment7.target=void\ updateLevel()
+numComments=8

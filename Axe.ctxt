@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Axe
+comment0.text=\r\n\ A\ weapon\ that\ deals\ 8\ slashing\ damage\ and\ can\ have\ damage\ added\ to\ it\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 6/7/20\ 16\:00\r\n
+comment1.params=
+comment1.target=Axe()
+comment1.text=\r\n\ creates\ an\ Axe\ with\ the\ attack\ 8\ slashing\ damage,\ \r\n\ with\ option\ of\ using\ two\ hands\ to\ do\ 10\ damage\ instead\r\n
+numComments=2
