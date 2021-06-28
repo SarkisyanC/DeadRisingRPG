@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Weapon
-comment0.text=\r\n\ Write\ a\ description\ of\ interface\ weapon\ here.\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 6/7/20\ 15\:20\r\n
-comment1.params=inLabel\ amount\ type
-comment1.target=Weapon(java.lang.String,\ int,\ java.lang.String)
-comment2.params=inLabel\ amount\ type\ twoHandedDamage
-comment2.target=Weapon(java.lang.String,\ int,\ java.lang.String,\ int)
-numComments=3

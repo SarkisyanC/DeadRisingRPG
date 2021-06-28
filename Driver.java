@@ -23,7 +23,7 @@ public class Driver
        {
             public void run ()
             {
-                JFrame frame = new CustomFrame();
+                JFrame frame = new MainFrame();
             }
         });
        

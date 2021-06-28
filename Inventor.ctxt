@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Inventor
-comment0.text=\r\n\ Holds\ features\ for\ any\ Inventor\ type\ ComplexCharecter\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/7/20\ \ 9\:00\r\n
-comment1.params=inConMod\ inArmorBase\ inInitiativeBase\ inActionsBase\ inManaBase
-comment1.target=Inventor(int,\ int,\ int,\ int,\ int)
-comment2.params=
-comment2.target=void\ updateLevel()
-numComments=3

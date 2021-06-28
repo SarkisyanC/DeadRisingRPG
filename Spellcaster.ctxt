@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Spellcaster
-comment0.text=\r\n\ Outlines\ the\ details\ specific\ to\ Spellcaster-type\ complex\ charecters\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/7/20\ \ 9\:45\r\n
-comment1.params=inConMod\ inArmorBase\ inInitiativeBase\ inActionsBase\ inManaBase
-comment1.target=Spellcaster(int,\ int,\ int,\ int,\ int)
-comment2.params=
-comment2.target=void\ longRest()
-numComments=3
