@@ -23,7 +23,7 @@ public class Driver
        {
             public void run ()
             {
-                JFrame frame = new JFrame("Dead Rising RPG");
+                JFrame frame = new CustomFrame();
                 frame.setSize(500,400);
                 //frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //closes the program on x
                 frame.setVisible(true);   
