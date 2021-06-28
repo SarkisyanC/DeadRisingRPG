@@ -10,7 +10,7 @@
 import java.util.*;
 import java.io.*;
 import java.awt.*;
-
+import javax.swing.*;
 public class Driver
 {
     public static void main (String [] args) throws IOException
@@ -19,7 +19,16 @@ public class Driver
        //todo: add a file reader 
        Scanner input = new Scanner (System.in);
        Game currentGame;
-       
+       SwingUtilities.invokeLater(new Runnable() 
+       {
+            public void run ()
+            {
+                JFrame frame = new JFrame("Dead Rising RPG");
+                frame.setSize(500,400);
+                //frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //closes the program on x
+                frame.setVisible(true);   
+            }
+        });
        
        //todo: figure out a way to display game to users with clickable buttons, etc
        //todo: figure out a way to save progress so a player can start from where they stoped -- maybe have it stored in a .txt that can be fed into a method to simulate the gameplay up to the current point?
