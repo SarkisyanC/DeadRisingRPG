@@ -17,6 +17,8 @@ public class CustomFrame extends JFrame
         
         //set layout
         setLayout(new BorderLayout());
+        this.setSize(1200,800);
+        this.setVisible(true);   
         
         //create swing component
         JButton button = new JButton("click me");
