@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=SatyrBard
-comment0.text=\r\n\ holds\ details\ of\ a\ detailed\ Satyr\ \r\n\ that\ fits\ the\ Bard\ type\r\n\r\n\ @author\ Sarkisyan\ C\r\n\ @version\ 7/8/20\ \ 13\:30\r\n
-comment1.params=inName
-comment1.target=SatyrBard(java.lang.String)
-numComments=2
